@@ -1,2 +1,3 @@
-# index
-its a bootstrap portfolio template modified by me 
+# HTML Shopping Tameplate 
+Its a single page HTML template 
+
